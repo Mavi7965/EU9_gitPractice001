@@ -6,6 +6,9 @@ public class NewPracticeHicret {
 
         System.out.println("hello world");
 
+        System.out.println(" how are you today?");
+
+
 
 
     }
